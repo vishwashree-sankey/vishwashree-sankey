@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishwashree Karhadkar
+- 👋 Hi, I’m Vishwashree Karhadkar
 - 🌱 I’m currently working at Sankey Solutions as Solution Analyst
 - 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me at VIshwashree.k@sankeysolutions.com
